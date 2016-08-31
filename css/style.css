@@ -1,0 +1,10 @@
+#pages {
+    list-style:none;
+}
+#pages li {
+    float:left;
+    margin:auto 10px;
+}
+#pages a {
+    text-decoration:none;
+}
